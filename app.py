@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
   <head><title>Mini Page</title></head>
@@ -6,3 +7,4 @@
     <p>This is a tiny HTML demo.</p>
   </body>
 </html>
+
